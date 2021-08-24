@@ -4,7 +4,7 @@ $ mefetch
 |                    |
 | @@@@@@@        @@@ | Uptime ; "22 years" 
 | @@@@@@@@       @@@ | Main Programming Languages ; "Python, C++"
-| @@[  @@@       @@[ | OS ; "Ubuntu / Rasbian (Raspberry Pi OS)"
+| @@[  @@@       @@[ | OS ; "Ubuntu / Raspbian (Raspberry Pi OS)"
 | [@   @[@       [@[ | DE ; "GNOME"
 | @[@[@[@        [[@ | Shell ; "Bash"
 | [[[@[[[[       [[[ | Main Editors ; "Vim, Atom, VSCode"
